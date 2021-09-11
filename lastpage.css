@@ -1,0 +1,8 @@
+.psolid {
+ border-style: solid;
+}
+.color { background-color: deeppink; 
+}
+.text { font-size: 200%;
+     text-align: center;
+}

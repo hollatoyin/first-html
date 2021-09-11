@@ -1,0 +1,47 @@
+.style1 {
+    text-align:center;
+    font-size:150%;
+    color: rgb(22, 22, 24);
+}
+.custom-header {
+    font-family:sans-serif;
+    text-align:center;
+}
+.custom {
+    font-size:150%;
+    text-align: centre
+}
+
+h1 {
+    color:rgb(30, 128, 0);
+text-align: center;
+font-size: 200%;
+font-style: italic;
+font-family: sans-serif;
+}
+.paragraph {
+    color :rgb(209, 144, 100);
+}
+.p1 {color:olive;
+}
+.p2 {color:darkblue;
+}
+body {
+    background-image: url('soar.png');
+}
+.bordered-table {
+  border: 1px solid black;
+  border-collapse: collapse ;
+}
+.unordered-list {
+    list-style-type: square;
+}
+.span { 
+    color: red;
+font-weight: bold;
+}
+.iframe { 
+    height: 200px;
+    width: 300px;
+    border: none;
+}
